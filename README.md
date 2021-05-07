@@ -6,12 +6,12 @@
 Country    |Community Name                              |Web Page           |Twitter        |Channels                    |
 --------|--------------------------------------|----------------------|-------------  |----------------------------|
 Global |BEER-ISAC                             |N/A                   |@BEERISAC      |N/A                         |
-Turkey |Türkiye EKS Siber Güvenlik Ekosistemi  |eksguvenligi.org      |@eks_ekosistem |https://t.me/eksguvenligi   |
-Russia   |Russian ICS Cyber Security Community   |ruscadasec.com        |N/A            |https://t.me/ruscadasecnews |
+Turkey |Türkiye EKS Siber Güvenlik Ekosistemi  |https://eksguvenligi.org      |@eks_ekosistem |https://t.me/eksguvenligi   |
+Russia   |Russian ICS Cyber Security Community   |https://ruscadasec.com        |N/A            |https://t.me/ruscadasecnews |
 Brazil|Brazil ICS Cyber Security Community|scadasecbr.org        |N/A            |https://t.me/scadasecbr     |
-Global |ICSVillage                            |icsvillage.com        |@ICS_Village   |N/A                         |
-Global |SANS ICS                              |ics.sans.org          |@SANSICS       |N/A                         |
-Global |SCADASEC                              |scadamag.infracritical.com/ | N/A    |https://groups.io/g/scadasec|
+Global |ICSVillage                            |https://icsvillage.com        |@ICS_Village   |N/A                         |
+Global |SANS ICS                              |https://ics.sans.org          |@SANSICS       |N/A                         |
+Global |SCADASEC                              |https://scadamag.infracritical.com/ | N/A    |https://groups.io/g/scadasec|
 
 
 ## Conferences
