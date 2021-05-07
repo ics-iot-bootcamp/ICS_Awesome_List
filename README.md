@@ -54,7 +54,7 @@ Global       |Locked Shields                                 |https://ccdcoe.org
 
 ## ISACs
 
-Community     |Açıklama                                                    |Web Page                                                  |
+Community     |Research Areas                                                    |Web Page                                                  |
 -------------|------------------------------------------------------------|-------------------------------------------------------------|
 E-ISAC       |Electricity Information Sharing and Analysis Center         |https://www.eisac.com/                                       | 
 EE-ISAC      |European Energy Information Sharing & Analysis Centre       |https://www.ee-isac.eu/                                      | 
@@ -64,7 +64,7 @@ ONG-ISAC     |Oil and Natural Gas Information Sharing and Analysis Center |https
 
 ## Free Trainings
 
-Organizasyon   |Web Page                                                           |
+Organization   |Web Page                                                           |
 ---------------|----------------------------------------------------------------------|
 ICS-CERT       |https://us-cert.cisa.gov/ics/Training-Available-Through-ICS-CERT      |
 IAEA           |https://websso.iaea.org/login/login.fcc                               |
