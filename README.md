@@ -1,60 +1,60 @@
-# EKS-Kaynakları/ICS-Repositories
+# ICS-Repositories
 
 
-## Topluluklar/Communities
+## Communities
 
-Ülke    |Açıklama                              |Web Sayfası           |Twitter        |Kanallar                    |
+Country    |Community Name                              |Web Page           |Twitter        |Channels                    |
 --------|--------------------------------------|----------------------|-------------  |----------------------------|
-Küresel |BEER-ISAC                             |N/A                   |@BEERISAC      |N/A                         |
-Türkiye |Türkiye EKS SiberGüvenlik Ekosistemi  |eksguvenligi.org      |@eks_ekosistem |https://t.me/eksguvenligi   |
-Rusya   |Rusya EKS Siber Güvenlik Ekosistemi   |ruscadasec.com        |N/A            |https://t.me/ruscadasecnews |
-Brezilya|Brezilya EKS Siber Güvenlik Ekosistemi|scadasecbr.org        |N/A            |https://t.me/scadasecbr     |
-Küresel |ICSVillage                            |icsvillage.com        |@ICS_Village   |N/A                         |
-Küresel |SANS ICS                              |ics.sans.org          |@SANSICS       |N/A                         |
-Küresel |SCADASEC                              |scadamag.infracritical.com/ | N/A    |https://groups.io/g/scadasec|
+Global |BEER-ISAC                             |N/A                   |@BEERISAC      |N/A                         |
+Turkey |Türkiye EKS Siber Güvenlik Ekosistemi  |eksguvenligi.org      |@eks_ekosistem |https://t.me/eksguvenligi   |
+Russia   |Russian ICS Cyber Security Community   |ruscadasec.com        |N/A            |https://t.me/ruscadasecnews |
+Brazil|Brazil ICS Cyber Security Community|scadasecbr.org        |N/A            |https://t.me/scadasecbr     |
+Global |ICSVillage                            |icsvillage.com        |@ICS_Village   |N/A                         |
+Global |SANS ICS                              |ics.sans.org          |@SANSICS       |N/A                         |
+Global |SCADASEC                              |scadamag.infracritical.com/ | N/A    |https://groups.io/g/scadasec|
 
 
-## Konferanslar/Conferences
+## Conferences
 
-Ülke    |Konferans                                      |Web Sayfası                                            |
+Country    |Conference Name                                      |Web Page                                            |
 --------|-----------------------------------------------|-------------------------------------------------------|
-Türkiye |EKS Konferans                                  |https://www.ekskonferans.org/                          | 
-Almanya |SANS ICS Europe                                |https://www.sans.org/                                  |
-Rusya   |Kaspersky Industrial Cybersecurity Conference  |https://ics.kaspersky.com/conference/                  |        
-İsveç   |CS3STHLM                                       |https://cs3sthlm.se/                                   |
-Belçika |BRUCON                                         |https://www.brucon.org/                                |
-Amerika |SANS ICS Summit USA                            |https://www.sans.org/                                  |
-Amerika |SANS Oil & Gas Cyber Security                  |https://www.sans.org/                                  |
-Amerika |S4xEvents                                      |https://s4xevents.com/                                 |
-Amerika |ICS Cyber Security Conference                  |https://www.icscybersecurityconference.com/            |
-Singapur|ICS Cyber Security Conference                  |https://www.icscybersecurityconference.com/            |
-Değişken|CIPRE                                          |https://www.cipre-expo.com/                            |
+Turkey |EKS Konferans                                  |https://www.ekskonferans.org/                          | 
+Germany |SANS ICS Europe                                |https://www.sans.org/                                  |
+Russia   |Kaspersky Industrial Cybersecurity Conference  |https://ics.kaspersky.com/conference/                  |        
+Sweden   |CS3STHLM                                       |https://cs3sthlm.se/                                   |
+Belgium |BRUCON                                         |https://www.brucon.org/                                |
+America |SANS ICS Summit USA                            |https://www.sans.org/                                  |
+America |SANS Oil & Gas Cyber Security                  |https://www.sans.org/                                  |
+America |S4xEvents                                      |https://s4xevents.com/                                 |
+America |ICS Cyber Security Conference                  |https://www.icscybersecurityconference.com/            |
+Singapore|ICS Cyber Security Conference                  |https://www.icscybersecurityconference.com/            |
+Flexible|CIPRE                                          |https://www.cipre-expo.com/                            |
 
 
-## Ekosistemler/Ecosystems
+## Ecosystems
 
-Ülke    |Ekosistem                                      |Web Sayfası                                                  |
+Country    |Ecosystem                                      |Web Page                                                  |
 --------|-----------------------------------------------|-------------------------------------------------------------|
-Küresel |CCI-ES                                         |https://www.cci-es.org/                                      | 
-Küresel |OT-CSA                                         |https://otcsalliance.org/                                    |
-Küresel |ISA Global Cybersecurity Alliance              |https://isaautomation.isa.org/cybersecurity-alliance/        |        
-Küresel |Charter of Trust                               |https://www.charteroftrust.com/                              |
+Global |CCI-ES                                         |https://www.cci-es.org/                                      | 
+Global |OT-CSA                                         |https://otcsalliance.org/                                    |
+Global |ISA Global Cybersecurity Alliance              |https://isaautomation.isa.org/cybersecurity-alliance/        |        
+Global |Charter of Trust                               |https://www.charteroftrust.com/                              |
 
 
 
-## Tatbikatlar/Exercises
+## Exercises
 
-Ülke          |Tatbikat                                       |Web Sayfası                                                  |
+Country          |Exercise Name                                       |Web Page                                                  |
 --------------|-----------------------------------------------|-------------------------------------------------------------|
-Kuzey Amerika |GridEX                                         |https://www.nerc.com/pa/CI/CIPOutreach/Pages/GridEx.aspx     | 
-Küresel       |Locked Shields                                 |https://ccdcoe.org/exercises/locked-shields/                 | 
+North America |GridEX                                         |https://www.nerc.com/pa/CI/CIPOutreach/Pages/GridEx.aspx     | 
+Global       |Locked Shields                                 |https://ccdcoe.org/exercises/locked-shields/                 | 
 
 
 
 
-## Bilgi Paylaşım Toplulukları / ISACs
+## ISACs
 
-Topluluk     |Açıklama                                                    |Web Sayfası                                                  |
+Community     |Açıklama                                                    |Web Page                                                  |
 -------------|------------------------------------------------------------|-------------------------------------------------------------|
 E-ISAC       |Electricity Information Sharing and Analysis Center         |https://www.eisac.com/                                       | 
 EE-ISAC      |European Energy Information Sharing & Analysis Centre       |https://www.ee-isac.eu/                                      | 
@@ -62,18 +62,18 @@ Water-ISAC   |Water Information Sharing and Analysis Center               |https
 ONG-ISAC     |Oil and Natural Gas Information Sharing and Analysis Center |https://ongisac.org/
 
 
-## Ücretsiz Eğitimler / Free Trainings
+## Free Trainings
 
-Organizasyon   |Web Sayfası                                                           |
+Organizasyon   |Web Page                                                           |
 ---------------|----------------------------------------------------------------------|
 ICS-CERT       |https://us-cert.cisa.gov/ics/Training-Available-Through-ICS-CERT      |
 IAEA           |https://websso.iaea.org/login/login.fcc                               |
 S4XEvents      |https://onramp.s4xevents.com/login|
 
 
-## Bültenler / Bulletins
+## Bulletins
 
-Yayıncı           |Web Sayfası                                                           |
+Publisher           |Web Page                                                           |
 ------------------|----------------------------------------------------------------------|
 Dale Peterson     |https://mailchi.mp/f53b1c8c2da0/friday                                |
 eksguvenligi.org  |https://www.eksguvenligi.org/bulten                                   |
@@ -82,15 +82,15 @@ CCI-ES            |cci-es.org                                                   
 
 
 
-## Makaleler / Articles
+## Articles
 
-Organizasyon |Konu                                                        |Bağlantı                                                     |
+Organization |Topic                                                        |Link                                                     |
 -------------|------------------------------------------------------------|-------------------------------------------------------------|
 SANS         |Secure Architecture for Industrial Control Systems          |https://www.sans.org/reading-room/whitepapers/ICS/secure-architecture-industrial-control-systems-36327|
 SANS         |The Industrial Control System Cyber Kill Chain              |https://www.sans.org/reading-room/whitepapers/ICS/industrial-control-system-cyber-kill-chain-36297
 
 
-## Kitaplar/Books
+## Books
 
 - [x] Industrial Network Security: Securing Critical Infrastructure Networks for Smart Grid, SCADA, and Other Industrial Control Systems
 - [x] Hacking Exposed Industrial Control Systems: ICS and SCADA Security Secrets & Solutions
@@ -98,7 +98,7 @@ SANS         |The Industrial Control System Cyber Kill Chain              |https
 - [x] Security PHA Review for Consequence-Based Cybersecurity
 - [x] Practical Modern SCADA Protocols: DNP3, 60870.5 and Related Systems
 
-## Sertifikalar / Certificates
+## Certificates
 - [x] GISCP (Global Industrial Cyber Security Professional)
 - [x] CSSA (Certified SCADA Security Architect)
 - [x] GRID (GIAC Response and Industrial Defense)
@@ -110,7 +110,7 @@ SANS         |The Industrial Control System Cyber Kill Chain              |https
 - [x] ISA/IEC 62443 Cybersecurity Expert
 
 
-## Top 10 Twitter Hesapları / Top 10 Twitter Accounts
+## Top 10 Twitter Accounts
 
 - [x] @shipulin_anton
 - [x] @digitalbond
@@ -125,9 +125,9 @@ SANS         |The Industrial Control System Cyber Kill Chain              |https
 
 
 
-## Standartlar & Kılavuzlar / Standards & Guidelines
+## Standards & Guidelines
 
-Kuruluş |Standart                                               |Bağlantı                                                                                         |
+Organization |Standard                                               |Link                                                                                         |
 --------|-------------------------------------------------------|-------------------------------------------------------------------------------------------------|
 NIST    |Guide to Industrial Control Systems (ICS) Security     |https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-82r2.pdf                       | 
 NIST    |Guidelines for Smart Grid Cybersecurity                |https://nvlpubs.nist.gov/nistpubs/ir/2014/NIST.IR.7628r1.pdf                                     |
@@ -149,21 +149,21 @@ ICS-CERT | ICS-CERT Recommended Practices |https://us-cert.cisa.gov/ics/Recommen
 
 
 
-## Düzenlenme Aşamasında / In Progress
-- [x] Regülasyonlar/Regulations
-- [x] Podcastler/Podcasts
+## In Progress
+- [x] Regulations
+- [x] Podcasts
 - [x] ICS PCAPs
-- [x] Videolar/Videos
-- [x] Feed'ler/Feeds
-- [x] Devlet Destekli Araştırma Projeleri/Goverment Funded Research Projects
-- [x] Saldırı Araçları/Offensive Tools
-- [x] Savunma Araçları/Defensensive Tools
-- [x] Ticari Ürünler/Products
-- [x] Araştırma Enstitüleri/Research Institues
+- [x] Videos
+- [x] Feeds
+- [x] Goverment Funded Research Projects
+- [x] Offensive Tools
+- [x] Defensensive Tools
+- [x] Products
+- [x] Research Institutes
 
 
 
-## Referanslar/Kaynaklar
+## References
 - [x] https://scadahacker.com/library/index.html
 - [x] https://github.com/demirelcan/awesome-industrial-control-system-security
 
