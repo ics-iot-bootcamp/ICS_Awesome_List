@@ -1,7 +1,7 @@
-# ICS-Repositories
+# ICS_Awesome_List
 
 **Table of Contents**
-- [ICS-Repositories](#ics-repositories)
+- [ICS_Awesome_List](#ics_awesome_list)
   - [Communities](#communities)
   - [Conferences](#conferences)
   - [Ecosystems](#ecosystems)
